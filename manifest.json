@@ -1,0 +1,9 @@
+{
+  "domain": "snap7",
+  "name": "SNAP7",
+  "version": "1.0.0",
+  "documentation": "https://github.com/krisjanek77/hacs-snap7",
+  "dependencies": [],
+  "codeowners": ["@krisjanek77"],
+  "requirements": ["python-snap7==1.0.0"]
+}
